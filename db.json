@@ -4,45 +4,6 @@
     "articles": [
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Mischa Frankl-Duval",
-            "title": "U.S. Stocks Waver as Investors Await Stimulus Deal - The Wall Street Journal",
-            "description": "Fed is scheduled to disclose latest economic projections and offer guidance on monetary policy",
-            "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-12-16-2020-11608114381",
-            "urlToImage": "https://images.wsj.net/im-274073/social",
-            "publishedAt": "2020-12-16T14:31:00Z",
-            "content": "U.S. stocks wavered Wednesday as investors awaited progress on stimulus talks, fresh guidance from the Federal Reserve and key economic data.\r\nThe S&amp;P 500 ticked lower about 0.1% as the broad mar… [+1061 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Zack Voell",
-            "title": "Ruffer Investment Confirms Massive Bitcoin Buy of $744M - CoinDesk - CoinDesk",
-            "description": "Ruffer confirmed the size of its tremendous bitcoin investment in an email to CoinDesk.",
-            "url": "https://www.coindesk.com/ruffer-confirms-744m-bitcoin-investment",
-            "urlToImage": "https://static.coindesk.com/wp-content/uploads/2018/11/ocean-wave-e1541134591941-1200x628.jpg",
-            "publishedAt": "2020-12-16T14:12:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Davey Alba, Sheera Frenkel",
-            "title": "From Voter Fraud to Vaccine Lies: Misinformation Peddlers Shift Gears - The New York Times",
-            "description": "Election-related falsehoods have subsided, but misleading claims about the coronavirus vaccines are surging — often spread by the same people.",
-            "url": "https://www.nytimes.com/2020/12/16/technology/from-voter-fraud-to-vaccine-lies-misinformation-peddlers-shift-gears.html",
-            "urlToImage": "https://static01.nyt.com/images/2020/12/16/business/16vaccine-misinfo1/16vaccine-misinfo1-facebookJumbo.jpg",
-            "publishedAt": "2020-12-16T13:49:00Z",
-            "content": "The change has been particularly evident over the last six weeks. Election misinformation peaked on Nov. 4 at 375,000 mentions across cable television, social media, print and online news outlets, ac… [+2177 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Fox Business"
             },
@@ -80,7 +41,7 @@
             "publishedAt": "2020-12-16T12:53:00Z",
             "content": "Take a look at some of the biggest movers in the premarket:\r\nTilray (TLRY), Aphria (APHA) The Canadian cannabis companies will combine in an all-stock deal that will create the world's biggest cannab… [+3535 chars]"
         },
-        {
+            {
             "source": {
                 "id": null,
                 "name": "Fox Business"
