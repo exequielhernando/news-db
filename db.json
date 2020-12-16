@@ -4,45 +4,6 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jill Disis, CNN Business",
-            "title": "Chaos at the top of China's biggest chipmaker - CNN",
-            "description": "The C-suite of one of China's most important tech companies has just been thrown into confusion.",
-            "url": "https://www.cnn.com/2020/12/16/tech/smic-executive-resignation-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201216030826-smic-logo-restricted-super-tease.jpg",
-            "publishedAt": "2020-12-16T11:14:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Thomas Ricker",
-            "title": "Amazon will make custom-fitted $25 T-shirts after photographing your body - The Verge",
-            "description": "Fun!",
-            "url": "https://www.theverge.com/2020/12/16/22177980/amazon-made-for-you-custom-body-double-fashion",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LX9VDcq1tTvKjAP9OLAPm_Ijhgg=/0x161:1154x765/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22174331/81finKMJVnL._AC_UL1500_.jpg",
-            "publishedAt": "2020-12-16T11:12:59Z",
-            "content": "Fun!\r\nAmazon influencers promote Made for You.\r\nAmazon just launched its new Made for You custom clothing service in the US that requires users to upload their measurements and two photos to create a… [+1436 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Keith Speights",
-            "title": "Why AstraZeneca's and Sanofi's Bad News Could Be Great News for Pfizer and Moderna - Motley Fool",
-            "description": "The challenges for two big drugmakers could translate to opportunities for their rivals in the COVID-19 vaccine race.",
-            "url": "https://www.fool.com/investing/2020/12/16/why-astrazenecas-and-sanofis-bad-news-could-be-gre/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/604773/gloved-hands-holding-2-covid-vaccine-bottles.jpg",
-            "publishedAt": "2020-12-16T11:03:00Z",
-            "content": "It might seem like everything is going well for COVID-19 vaccines right now. The first Americans have already been vaccinated with Pfizer's (NYSE:PFE) and BioNTech's (NASDAQ:BNTX) BNT162b2. Moderna(N… [+4410 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Salon"
             },
