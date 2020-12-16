@@ -4,45 +4,6 @@
     "articles": [
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aimee Picchi",
-            "title": "MacKenzie Scott says she gave $4.2 billion to charity - CBS News",
-            "description": "Scott, the 18th richest person in the world, said she wanted to accelerate her giving due to the impact of the pandemic.",
-            "url": "https://www.cbsnews.com/news/mackenzie-scott-donates-charity-4-2-billion/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/5312f415-14c3-4ba7-85d5-3c3b09cf1e24/thumbnail/1200x630g2/3ea78728a22efc9aeea616f3e1f2dc19/gettyimages-927403324-cropped.png",
-            "publishedAt": "2020-12-16T12:01:00Z",
-            "content": "MacKenzie Scott, the ex-wife of Amazon.com CEO Jeff Bezos, said in a blog post that she has given away $4.2 billion of her fortune in the past four months. Scott said she accelerated her charitable p… [+2848 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Reuters",
-            "title": "Honda recalling 1.79M vehicles worldwide for safety issues - Fox Business",
-            "description": "The Japanese automaker said one recall covers 268,000 2002-2006 model year CR-V vehicles in the United States to replace power window master switches. Honda said there had been no reported injuries, but 16 fires reported related to the issue.",
-            "url": "https://www.foxbusiness.com/lifestyle/honda-recalling-1-79m-vehicles-worldwide-for-safety-issues",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/hondapowerkm.jpg?ve=1&tl=1",
-            "publishedAt": "2020-12-16T11:23:04Z",
-            "content": "WASHINGTON - Honda Motor Co said on Tuesday it was recalling 1.79 million vehicles worldwide in four separate campaigns, including some linked to reported fires.\r\nThe recalls cover 1.4 million vehicl… [+1683 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Shead",
-            "title": "Facebook criticizes Apple as it welcomes Europe's new tech rules - CNBC",
-            "description": "Facebook accused Apple of using its power to \"harm developers and consumers\" as it welcomed draft laws outlined by the European Commission.",
-            "url": "https://www.cnbc.com/2020/12/16/facebook-criticizes-apple-as-it-welcomes-europes-new-tech-rules.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106073362-1565569988565gettyimages-1151289642.jpeg?v=1568030746",
-            "publishedAt": "2020-12-16T11:19:00Z",
-            "content": "LONDON Facebook accused Apple of using its power to \"harm developers and consumers\" as it welcomed draft laws outlined by the European Commission, the executive arm of the EU. \r\nThe new laws announce… [+3877 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
