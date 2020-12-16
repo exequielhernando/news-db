@@ -2,45 +2,6 @@
     "status": "ok",
     "totalResults": 70,
     "articles": [
-            {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Reuters",
-            "title": "Amazon urges judge to set aside $10 billion cloud contract award to Microsoft - Fox Business",
-            "description": "WASHINGTON - Amazon.com urged a U.S. judge to toss out the Pentagon's $10 billion JEDI cloud computing contract award after the Defense Department said in September a court-ordered re-evaluation had determined Microsoft Corp's proposal still represented the b…",
-            "url": "https://www.foxbusiness.com/technology/amazon-urges-judge-to-set-aside-10-billion-cloud-contract-award-to-microsoft",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Amazon-Rx-FBN-Thumb.jpg?ve=1&tl=1",
-            "publishedAt": "2020-12-16T12:41:44Z",
-            "content": "WASHINGTON - Amazon.com urged a U.S. judge to toss out the Pentagon's $10 billion JEDI cloud computing contract award after the Defense Department said in September a court-ordered re-evaluation had … [+2705 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Barbara Kollmeyer",
-            "title": "Here's the ideal portfolio based on the Fed wanting us to borrow, says a Merrill Lynch veteran - MarketWatch",
-            "description": "Critical information for the U.S. trading day",
-            "url": "https://www.marketwatch.com/story/heres-the-ideal-portfolio-based-on-the-fed-wanting-us-to-borrow-says-a-merrill-lynch-veteran-11608120927",
-            "urlToImage": "https://images.mktw.net/im-274081/social",
-            "publishedAt": "2020-12-16T12:15:00Z",
-            "content": "Stocks are looking at another struggle, apart from techs, on Wednesday after some downbeat data. Thats as we wait for the outcome of the Federal Reserves last policy meeting of the year and progress … [+4996 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Antonia Noori Farzan, Erin Cunningham",
-            "title": "Coronavirus live updates: California orders thousands of body bags as Moderna vaccine nears approval - The Washington Post",
-            "description": "Nearly 16.7 million coronavirus cases and 303,000 fatalities have been reported in the United States since February.",
-            "url": "https://www.washingtonpost.com/nation/2020/12/16/coronavirus-covid-live-updates-us/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-15-2020/t_7232c696864441fd8475973aa90f5653_name_Vac_Mat_Thumb_00_00_03_00_Still005.jpg&w=1440",
-            "publishedAt": "2020-12-16T12:15:00Z",
-            "content": "Poor ventilation at a quarantine hotel in South Australia may have led to a cluster of covid-19 cases that prompted a government lockdown last month, a local health official said.\r\nThe outbreak at a … [+1690 chars]"
-        },
         {
             "source": {
                 "id": "cbs-news",
