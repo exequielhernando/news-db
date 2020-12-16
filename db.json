@@ -2,45 +2,6 @@
     "status": "ok",
     "totalResults": 70,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Megan Henney",
-            "title": "US retail sales fell in November for the first time in seven months - Fox Business",
-            "description": "U.S. retail sales fell in November for the first time in six months, suggesting consumers are pulling back on spending.",
-            "url": "https://www.foxbusiness.com/economy/retail-sales-fall-for-first-time-since-april-despite-holiday-season",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/j-crew-Getty.jpg?ve=1&tl=1",
-            "publishedAt": "2020-12-16T13:39:10Z",
-            "content": "U.S. retail sales in November fell for the first time in seven months, suggesting consumers are pulling back on spending amid a surging pandemic and expiring federal aid.\r\nThe value of total sales de… [+1517 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "US declares Switzerland to be currency manipulator - Financial Times",
-            "description": "Treasury department also brands Vietnam in final days of Trump administration",
-            "url": "https://www.ft.com/content/9bcd4d84-fdec-4f03-9560-dc58f2721899",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F765b4403-a635-4b1f-a4e1-1be5bfb80a84.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2020-12-16T13:30:00Z",
-            "content": "The US Treasury has labelled Switzerland and Vietnam currency manipulators, escalating tensions with the two countries in the waning days of the Trump administration. \r\nThe move could pave the way fo… [+1796 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Peter Schacknow",
-            "title": "Stocks making the biggest moves in the premarket: Tilray, Aphria, Penumbra, Moderna & more - CNBC",
-            "description": "The stocks making the biggest moves in premarket trading include Tilray, Aphria, Penumbra, Moderna, and more",
-            "url": "https://www.cnbc.com/2020/12/16/stocks-making-the-biggest-moves-in-the-premarket-tilray-aphria-penumbra-moderna-and-more.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105462506-1537467166286tilray_nanaimo_plants.jpg?v=1552935817",
-            "publishedAt": "2020-12-16T12:53:00Z",
-            "content": "Take a look at some of the biggest movers in the premarket:\r\nTilray (TLRY), Aphria (APHA) The Canadian cannabis companies will combine in an all-stock deal that will create the world's biggest cannab… [+3535 chars]"
-        },
             {
             "source": {
                 "id": null,
