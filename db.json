@@ -1,20 +1,7 @@
 {
     "status": "ok",
     "totalResults": 70,
-    "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Salon"
-            },
-            "author": "Igor Derysh",
-            "title": "Trump campaign vendors got millions in COVID aid while being paid over $60M by Trump committees - Salon",
-            "description": "“They used PPP as their pandemic piggy bank while those in real need lost out,” a watchdog group said.",
-            "url": "https://www.salon.com/2020/12/16/trump-related-vendors-got-millions-in-covid-aid--while-still-getting-paid-by-his-campaign/",
-            "urlToImage": "https://media.salon.com/2020/12/donald-trump-maga-1214201.jpg",
-            "publishedAt": "2020-12-16T11:00:00Z",
-            "content": "More than a half-dozen Trump campaign vendors received in excess of $7 million in coronavirus small business aid — despite collecting more than $60 million from the campaign.\r\nThe Small Business Admi… [+8880 chars]"
-        },
+    "articles": [   
         {
             "source": {
                 "id": null,
